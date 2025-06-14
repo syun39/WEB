@@ -14,25 +14,9 @@ h1 {
 .frame {
 	width: 300px;
 	height: 200px;
-}
-
-.frame ul {
-	display: grid;
-	grid-template-columns: repeat(3, 1fr);
-	gap: 30px;
-	list-style: none;
-	padding: 20;
-	margin: 0;
-}
-
-.frame ul li {
 	border: 5q solid lightseagreen;
-	padding: 10px;
+	padding-top: 5px;
+	margin: 5px;
+	float: left;
 	text-align: center;
-	background-color: white;
-}
-
-.frame ul li p {
-	margin-top: 10px;
-	font-size: 14px;
 }
