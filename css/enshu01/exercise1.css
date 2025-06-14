@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+.pagetitle {
+	background-color: deeppink;
+	size: 32px;
+	color: white;
+	border-left-style: solid;
+	border-left-width: 5px;
+	border-left-color: lightpink
+}
+
+.heading {
+	font-size: 20px;
+	font: black;
+	border-bottom: solid;
+	border-bottom-width: 5px;
+	border-bottom-color: lightblue
+}
+
+ul {
+	list-style-type: circle;
+}

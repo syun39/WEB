@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+caption {
+	text-align: left;
+	font-weight: bold;
+}
+
+table {
+	border-collapse: collapse;
+	table-layout: fixed;
+	width: 800px;
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+}
+
+th {
+	background-color: lightgreen;
+}
